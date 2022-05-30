@@ -19,7 +19,7 @@ navbar {
     font-weight: bolder;
   }
   .firstparagraph {
-    position: static;
+    position: absolute;
     float: left;
     max-width: 400px;
     margin-left: 250px;
