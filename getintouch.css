@@ -19,6 +19,10 @@ navbar {
     font-weight: bolder;
   }
   .firstparagraph {
+         position: absolute;
+    white-space: nowrap;
+    overflow: hidden;
+
     position: absolute;
     float: left;
     max-width: 400px;
