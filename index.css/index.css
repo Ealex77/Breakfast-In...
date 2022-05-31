@@ -138,3 +138,19 @@ hr{
     color: orange;
   }
  
+  footer{
+    text-align: right;
+    color:white;
+    background-color:#FFA10A;
+    padding-right: 1%;
+  }
+  
+  footer img{
+    display: inline-block;
+    vertical-align: middle; 
+    width: 40px;
+    height: 40px;
+    border: none;
+    padding: 0;
+    margin: 12px;
+  }
