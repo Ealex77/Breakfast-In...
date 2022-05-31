@@ -40,6 +40,27 @@ hr{
     margin-left: 15rem;
     margin-right: 15rem;
 }
+
+h3{
+  color: orange;
+  text-decoration: none;
+  font-family: Rubik Mono One;
+  font-size: 22px;
+  padding: 0 0 0 0;
+}
+
+
+h4{
+  color: orange;
+  text-decoration: none;
+  font-family: Rubik Mono One;
+  font-size: 18px;
+}
+
+a{
+  text-decoration: none;
+}
+
 .mini-menue a {
     color: orange;
     font-family: 'Montserrat', sans-serif;
@@ -55,6 +76,10 @@ hr{
     border-radius: 15px;
     padding: 0.3rem;
     font-size: 10px;
+}
+
+.recipe-with-text{
+  margin-bottom: 50px;
 }
 
 .receipe-grid {
