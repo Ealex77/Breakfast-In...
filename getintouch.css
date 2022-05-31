@@ -1,3 +1,7 @@
+body{
+  margin:0;
+}
+
 .headercontainer {
   background-image: url("https://ireallylikefood.com/wp-content/uploads/2020/03/easy-breakfast-sides-1200x800.jpg");
   background-repeat: no-repeat;
@@ -64,12 +68,12 @@ h2 {
 
 h3 {
   font-family: Montserrat;
-  font-size: 22px;
+  font-size: 18px;
 }
 
 p, label, input{
   font-family: Montserrat;
-  font-size: 24px;
+  font-size: 22px;
   line-height: 135%;
 }
 

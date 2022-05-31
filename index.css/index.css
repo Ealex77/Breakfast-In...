@@ -45,8 +45,8 @@ h3{
   color: orange;
   text-decoration: none;
   font-family: Rubik Mono One;
-  font-size: 22px;
-  padding: 0 0 0 0;
+  font-size: 24px;
+  margin:0;
 }
 
 
@@ -54,7 +54,8 @@ h4{
   color: orange;
   text-decoration: none;
   font-family: Rubik Mono One;
-  font-size: 18px;
+  font-size: 16px;
+  margin-bottom: 0;
 }
 
 a{
@@ -89,8 +90,8 @@ a{
     color: orange;
     font-family: 'Rubik Mono One', sans-serif;
     border-bottom: 1px orange solid;
-    border-top: 1px orange solid;
-    margin-left: 0%;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 .receipe-grid img {
@@ -139,7 +140,7 @@ a{
   .sign-up-text {
       width: 25rem;
       margin-left: 2.5rem;
-      margin-top: 2.5rem;
+
   }
   .sign-up-text h2 {
     font-family: 'Rubik Mono One', sans-serif;
