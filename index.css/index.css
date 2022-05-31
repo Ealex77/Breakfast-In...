@@ -1,3 +1,8 @@
+html {
+	scroll-behavior: smooth;
+  scroll-padding-top: 2.5rem;
+}
+
 body {
     margin: 0%;
     height: 100%;
@@ -51,6 +56,7 @@ hr{
     padding: 0.3rem;
     font-size: 10px;
 }
+
 .receipe-grid {
     display: flex;
     flex-wrap: wrap;
@@ -63,8 +69,8 @@ hr{
 }
 
 .receipe-grid img {
-    width: 25rem;
-    height: auto;
+    width: auto;
+    height: 250px;
 }
   
   /* Add some padding and a grey background color to containers */
